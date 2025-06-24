@@ -3,7 +3,6 @@
 **Selamat datang di portal resmi publikasi ilmiah Universitas Lampung.**  
 Kami menyediakan akses terbuka ke jurnal-jurnal akademik dari berbagai bidang ilmu yang diterbitkan oleh sivitas akademika Universitas Lampung.
 
-![banner](img/logo.jpg) <!-- Ganti dengan URL banner jika ada -->
 
 ---
 
